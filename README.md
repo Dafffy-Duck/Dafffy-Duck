@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-**Dafffy-Duck/Dafffy-Duck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  <img width='50' align="center" src="https://res.cloudinary.com/dpblox0oy/image/upload/v1711464775/Dafffy-Duck/uqznbshhyhz8xflmhzs0.gif">
+  <img width='500' align="center" src="https://res.cloudinary.com/dpblox0oy/image/upload/v1711464775/Dafffy-Duck/uqznbshhyhz8xflmhzs0.gif">
   
 Here are some ideas to get you started:
 
