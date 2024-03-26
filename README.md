@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align='center'>
     <img width='500' align="center" src="https://res.cloudinary.com/dpblox0oy/image/upload/v1711464775/Dafffy-Duck/uqznbshhyhz8xflmhzs0.gif">
 </div>
