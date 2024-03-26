@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="300" src="https://res.cloudinary.com/dpblox0oy/image/upload/v1711464775/Dafffy-Duck/uqznbshhyhz8xflmhzs0.gif">
+    <img width="700" src="https://res.cloudinary.com/dpblox0oy/image/upload/v1711464775/Dafffy-Duck/uqznbshhyhz8xflmhzs0.gif">
 </div>
 
 # Hey there, folks! It's Daffy Duck here. 🦆
@@ -9,6 +9,9 @@
 Not your average feathered friend, I'm the true star of the show, ready to outshine that carrot-chomping rabbit at every turn. When I'm not busy with my countless endeavors to claim the spotlight, you can find me here, sharing my genius with the world - one commit at a time.
 
 ### What's cookin'?
+
+ <img width="300" src="https://res.cloudinary.com/dpblox0oy/image/upload/v1711465483/Dafffy-Duck/yptvbxr3u6riudihzbdf.gif">
+
 
 - 🔭 I’m currently working on... becoming the richest duck in the world, one treasure hunt at a time.
 - 🌱 I’m currently learning... how not to get sidetracked by rabbit seasons.
